@@ -1,2 +1,2 @@
 # helloWorld
-a short guide
+a short guide for a newbie
